@@ -7,3 +7,4 @@
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+https://github.com/Kimiko12/Ships_Semantic_Segementation/blob/main/image-1.png
