@@ -7,3 +7,5 @@ opencv-python
 tqdm
 matplotlib
 scikit-image
+
+-e .
